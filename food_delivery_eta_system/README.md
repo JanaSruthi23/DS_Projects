@@ -58,3 +58,7 @@ python src/main.py
 
 ### Run API
 streamlit run src/app.py
+
+###To run docker
+docker run -p 8501:8501 janasruthi23/food-delivery-eta:v1.0
+
