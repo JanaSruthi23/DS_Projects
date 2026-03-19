@@ -53,7 +53,8 @@ pip install -r requirements.txt
 ## Run Instructions
 
 ### Train and Evaluate
+cd food_delivery_eta_system
 python src/main.py
 
 ### Run API
-streamlit run app.py
+streamlit run src/app.py
